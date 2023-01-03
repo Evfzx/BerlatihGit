@@ -1,8 +1,5 @@
 Nama : Faiz Sulistiyo
 Stack : Frontend
-<<<<<<< HEAD
 Hobi: Menggambar
-=======
 Deskripsi : Karena bidang teknologi seperti programming memiliki banyak hal yang dapat di eksplor dan terus dipelajari
 
->>>>>>> description
